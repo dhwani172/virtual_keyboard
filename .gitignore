@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+ENV/
+.env
+.mypy_cache/
+.pytest_cache/
+.coverage
+
+# OS / Editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Optional: ignore large demo media (uncomment if you don’t want them tracked)
+# *.mp4
+# *.mov
+# *.avi
